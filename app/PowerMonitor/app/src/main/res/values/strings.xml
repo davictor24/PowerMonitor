@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PowerMonitor</string>
+    <string name="power_monitor">Power Monitor</string>
+    <string name="exit">Exit</string>
+</resources>
